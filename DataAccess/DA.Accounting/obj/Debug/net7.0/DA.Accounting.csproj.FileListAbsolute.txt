@@ -1,0 +1,14 @@
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Accounting\bin\Debug\net7.0\DA.Accounting.deps.json
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Accounting\bin\Debug\net7.0\DA.Accounting.dll
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Accounting\bin\Debug\net7.0\DA.Accounting.pdb
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Accounting\obj\Debug\net7.0\DA.Accounting.csproj.AssemblyReference.cache
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Accounting\obj\Debug\net7.0\DA.Accounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Accounting\obj\Debug\net7.0\DA.Accounting.AssemblyInfoInputs.cache
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Accounting\obj\Debug\net7.0\DA.Accounting.AssemblyInfo.cs
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Accounting\obj\Debug\net7.0\DA.Accounting.csproj.CoreCompileInputs.cache
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Accounting\obj\Debug\net7.0\DA.Accounting.dll
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Accounting\obj\Debug\net7.0\refint\DA.Accounting.dll
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Accounting\obj\Debug\net7.0\DA.Accounting.pdb
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Accounting\obj\Debug\net7.0\ref\DA.Accounting.dll
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Accounting\bin\Debug\net7.0\DA.Accounting.runtimeconfig.json
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Accounting\obj\Debug\net7.0\DA.Accounting.genruntimeconfig.cache

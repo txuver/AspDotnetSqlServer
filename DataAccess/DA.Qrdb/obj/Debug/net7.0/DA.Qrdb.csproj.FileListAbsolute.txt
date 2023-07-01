@@ -1,0 +1,14 @@
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Qrdb\bin\Debug\net7.0\DA.Qrdb.deps.json
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Qrdb\bin\Debug\net7.0\DA.Qrdb.runtimeconfig.json
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Qrdb\bin\Debug\net7.0\DA.Qrdb.dll
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Qrdb\bin\Debug\net7.0\DA.Qrdb.pdb
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Qrdb\obj\Debug\net7.0\DA.Qrdb.csproj.AssemblyReference.cache
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Qrdb\obj\Debug\net7.0\DA.Qrdb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Qrdb\obj\Debug\net7.0\DA.Qrdb.AssemblyInfoInputs.cache
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Qrdb\obj\Debug\net7.0\DA.Qrdb.AssemblyInfo.cs
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Qrdb\obj\Debug\net7.0\DA.Qrdb.csproj.CoreCompileInputs.cache
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Qrdb\obj\Debug\net7.0\DA.Qrdb.dll
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Qrdb\obj\Debug\net7.0\refint\DA.Qrdb.dll
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Qrdb\obj\Debug\net7.0\DA.Qrdb.pdb
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Qrdb\obj\Debug\net7.0\DA.Qrdb.genruntimeconfig.cache
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Qrdb\obj\Debug\net7.0\ref\DA.Qrdb.dll

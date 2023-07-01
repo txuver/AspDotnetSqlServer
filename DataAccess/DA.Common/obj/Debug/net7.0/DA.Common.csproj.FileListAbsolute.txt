@@ -1,0 +1,12 @@
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Common\bin\Debug\net7.0\DA.Common.deps.json
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Common\bin\Debug\net7.0\DA.Common.dll
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Common\bin\Debug\net7.0\DA.Common.pdb
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Common\obj\Debug\net7.0\DA.Common.csproj.AssemblyReference.cache
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Common\obj\Debug\net7.0\DA.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Common\obj\Debug\net7.0\DA.Common.AssemblyInfoInputs.cache
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Common\obj\Debug\net7.0\DA.Common.AssemblyInfo.cs
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Common\obj\Debug\net7.0\DA.Common.csproj.CoreCompileInputs.cache
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Common\obj\Debug\net7.0\DA.Common.dll
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Common\obj\Debug\net7.0\refint\DA.Common.dll
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Common\obj\Debug\net7.0\DA.Common.pdb
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.Common\obj\Debug\net7.0\ref\DA.Common.dll

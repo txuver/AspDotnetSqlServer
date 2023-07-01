@@ -1,0 +1,14 @@
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.PayJom\bin\Debug\net7.0\DA.PayJom.deps.json
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.PayJom\bin\Debug\net7.0\DA.PayJom.runtimeconfig.json
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.PayJom\bin\Debug\net7.0\DA.PayJom.dll
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.PayJom\bin\Debug\net7.0\DA.PayJom.pdb
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.PayJom\obj\Debug\net7.0\DA.PayJom.csproj.AssemblyReference.cache
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.PayJom\obj\Debug\net7.0\DA.PayJom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.PayJom\obj\Debug\net7.0\DA.PayJom.AssemblyInfoInputs.cache
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.PayJom\obj\Debug\net7.0\DA.PayJom.AssemblyInfo.cs
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.PayJom\obj\Debug\net7.0\DA.PayJom.csproj.CoreCompileInputs.cache
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.PayJom\obj\Debug\net7.0\DA.PayJom.dll
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.PayJom\obj\Debug\net7.0\refint\DA.PayJom.dll
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.PayJom\obj\Debug\net7.0\DA.PayJom.pdb
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.PayJom\obj\Debug\net7.0\DA.PayJom.genruntimeconfig.cache
+C:\Users\Wong Jhi Wei\source\Learning\MultipleDatabaseEntityFramework\DataAccess\DA.PayJom\obj\Debug\net7.0\ref\DA.PayJom.dll
